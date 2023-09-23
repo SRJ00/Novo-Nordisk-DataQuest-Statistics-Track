@@ -6,6 +6,8 @@ The competition ran for more than 2 months with total 3 rounds.
 
 You can find the submission for all the rounds of the competition in the repository.
 
+The data generation procedure file is also added in the repository.
+
 The task(s) for the final round of the competition are as follows:
 
 *  Primary tasks:
